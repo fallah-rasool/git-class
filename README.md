@@ -7,7 +7,7 @@
 ---
 
 ## go to page git
-[link text](https://fallah-rasool.github.io/git-class/)
+## [This is git Page](https://fallah-rasool.github.io/git-class/)
 
 # h1 Heading 8-)
 ## h2 Heading
